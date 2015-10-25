@@ -2,7 +2,7 @@
 rm(list=ls())
 
 
-setwd('/Users/heather/Documents/UCI HAR Dataset/');
+setwd('C:/Users/Actifio/Documents/UCI HAR Dataset/');
 
 
 features     = read.table('./features.txt',header=FALSE); #imports features.txt
